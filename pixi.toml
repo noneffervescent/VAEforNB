@@ -1,0 +1,10 @@
+[project]
+authors = ["mazevedo <mazevedo@student.ethz.ch>"]
+channels = ["conda-forge"]
+name = "VAEforNB"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
